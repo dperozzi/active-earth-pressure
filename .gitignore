@@ -1,0 +1,26 @@
+# Jupyter nb
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# File extensions
+*.pdf
+*.g2x
+
+#Linux-related
+*~
+.Trash-*
+
+
+# PyCharm
+.idea
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+*/.pytest_cache
+
+out/
+for_reviewer1.ipynb
