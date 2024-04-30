@@ -20,9 +20,9 @@ dependencies = [
     "jupyterlab",
     "matplotlib==3.5.1",
     "matplotlib-label-lines",
-    "numpy==1.20.3",
+    "numpy==1.21",
     "pandas==1.3.5",
-    "scipy==1.8.0"
+    "scipy==1.10.0"
 ]
 
 [tool.setuptools]
